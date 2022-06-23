@@ -5,6 +5,8 @@
 
 //3. Declare variables
 
+//7. Create gitignore file and push to github
+
 //4. Connect to MongoDB - add connection string to .env file
 
 //5. Add .env file to gitignore
@@ -14,8 +16,6 @@
 //----Test Mongo and Port Connection
 
 //6. Set middleware
-
-//7. Create gitignore file
 
 //8. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
